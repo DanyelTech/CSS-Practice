@@ -1,0 +1,35 @@
+.French {
+    height: 100px;
+    width: 50%;
+    border: 20px ridge grey;
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.English {
+    height: 100px;
+    width: 50%;
+    border: 20px ridge grey;
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.Spanish {
+    height: 100px;
+    width: 50%;
+    border: 20px ridge grey;
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.Japanese {
+    height: 100px;
+    width: 50%;
+    border: 20px ridge grey;
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+}
